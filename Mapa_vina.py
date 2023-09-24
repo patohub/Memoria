@@ -120,4 +120,7 @@ minimap = MiniMap()
 mapa.add_child(minimap)
 
 mapa.save("mapa_interactivo.html") #aqui se muestra el mapa interactivo
-mapa 
+mapa
+
+#para leer de vuetla, usar esto
+# https://stackoverflow.com/questions/75928467/is-it-possible-to-save-a-folium-object-in-python
